@@ -1,3 +1,6 @@
+# Where Information Is Kept in HTTP
+### Or, "Have you heard the one about the protocol, the domain, the path, and the query string? They're no different than URI."
+
 *HTTP* requests and responses keep data in various places. The most obvious place is the *body* of the request or response. But the *headers* are also a place where data is kept: it is just a set of key-value pairs after all. But the kind of data you want to keep in your header differs from the body. The body is for content. The headers are for instructions to the client or server and for metadata (data *about* the content: the request, the response, the resource itself, the client, or the server).
 
 But data is also kept in another place: the URI (the address of the requested resource). Consider this URI: `https://jsonplaceholder.typicode.com/posts/1/comments?id=3`. There are actually four distinct pieces of data there: the protocol (HTTPS in this case), the domain (`jsonplaceholder.typicode.com`), the path (`/posts/1/comments`), and something called the [the query string or query parameters](https://www.youtube.com/watch?v=WIUrrp5KkCo).
