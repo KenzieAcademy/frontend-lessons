@@ -30,4 +30,4 @@ As developers who work with JavaScript, we must put some discipline into writing
 
 + **Study** [JavaScript Standard Style Guide](https://standardjs.com/rules.html)
 
-+ **Watch** Jim Weirich's [Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
++ **Watch** Jim Weirich's [Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8) (originally titled, "A Grand Unified Theory of Software Design")
