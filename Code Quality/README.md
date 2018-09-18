@@ -24,10 +24,10 @@ As developers who work with JavaScript, we must put some discipline into writing
     - Functions
 
 ### Supplemental Resources
-**Read:** [How Violating the Principle of Least Surprise Can Introduce Subtle Bugs to Your Code](https://medium.com/u2i-blogs/how-violating-the-principle-of-least-surprise-can-introduce-subtle-bugs-to-your-code-8902cc51dc29)
++ **Read** [How Violating the Principle of Least Surprise Can Introduce Subtle Bugs to Your Code](https://medium.com/u2i-blogs/how-violating-the-principle-of-least-surprise-can-introduce-subtle-bugs-to-your-code-8902cc51dc29)
 
-**Read:** [Uncle Bob's Clean Code: Irrelevant in the Age of Full-Stack JavaScript?](https://spin.atomicobject.com/2016/12/21/clean-code-full-stack-javascript/)
++ **Read** [Uncle Bob's Clean Code: Irrelevant in the Age of Full-Stack JavaScript?](https://spin.atomicobject.com/2016/12/21/clean-code-full-stack-javascript/)
 
-**Study:** [JavaScript Standard Style Guide](https://standardjs.com/rules.html)
++ **Study** [JavaScript Standard Style Guide](https://standardjs.com/rules.html)
 
-**Watch:** Jim Weirich's [Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
++ **Watch** Jim Weirich's [Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
